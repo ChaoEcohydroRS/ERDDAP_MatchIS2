@@ -1,0 +1,12 @@
+# Raw ERDDAP downloads and ATL03 granules (re-created by step 02)
+data/
+*.h5
+# Run artifacts
+logs/
+_sliderule_kd_runs/
+results/_parts/
+_verify/
+# Python / notebooks
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

@@ -1,0 +1,9 @@
+platform,program_region,insitu_quantity,sites_or_platforms,matchups,median_ratio
+Moored surface-piercing profilers,OOI Endurance Array; Oregon and Washington shelf,Kd(PAR),4 stations,14,1.81
+Moored offshore profilers,"OOI Regional Cabled Array; Oregon offshore, slope base and Axial Seamount",Kd(PAR),3 stations,43,0.69
+Ship casts on station,West Florida Shelf (cruises WS21278 and WS22337),Kd(PAR),4 stations,4,3.67
+"Gliders, Washington/Oregon",OOI Endurance Array; Washington and Oregon shelf,Kd(PAR),38 deployments,55,1.21
+"Gliders, Mid-Atlantic Bight",OOI Coastal Pioneer Array; Mid-Atlantic Bight,Kd(PAR),38 deployments,56,2.8
+"Gliders, Bermuda",BIOS gliders; Bermuda,Kd(PAR),3 deployments,4,2.46
+BGC-Argo floats,"Mediterranean Sea (10), Atlantic Ocean (6), Pacific Ocean (3), Baltic Sea (1)",Kd(490),20 profiles from 15 floats,20,0.81
+Total,,,,196,

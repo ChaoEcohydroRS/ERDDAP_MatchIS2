@@ -1,0 +1,11 @@
+network,region,stations,icesat2_passes
+NOAA PMEL CO2 moorings,Open ocean and continental shelves,17,162
+University and regional shore stations,California coast,6,76
+OOI Coastal Pioneer Array,Mid-Atlantic Bight shelf,6,24
+PacIOOS water-quality buoys,Hawaii,2,29
+NOAA NDBC buoys,"Mobile Bay (Gulf of Mexico), Chesapeake Bay, Great South Bay (Long Island)",4,29
+Florida coastal stations,Tampa Bay and Biscayne Bay,3,18
+UMaine LOBO buoys,Gulf of Maine,3,7
+NERACOOS buoys,Gulf of Maine,3,26
+NERRS Kachemak Bay,"Cook Inlet, Alaska",2,90
+Total,,46,461

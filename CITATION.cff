@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "ERDDAP_MatchIS2: matching ERDDAP in-situ ocean optics to ICESat-2 photon Kd"
+authors:
+  - family-names: Glover
+    given-names: Hannah
+  - family-names: Wang
+    given-names: Chao
+repository-code: "https://github.com/ChaoEcohydroRS/ERDDAP_MatchIS2"
+date-released: 2026-10-16
+version: 1.0.0
+references:
+  - type: dataset
+    title: "BGC-Argo matchups with Ocean Color Satellite Sensors and MERRA-2 updated for 2023"
+    authors:
+      - family-names: Begouen Demeaux
+        given-names: Charlotte
+    version: "2"
+    year: 2024
+    publisher:
+      name: Zenodo
+    doi: 10.5281/zenodo.8228242
+  - type: software
+    title: "RiverMouths_IS2KdMassiveTest (ICESat-2 photon Kd pipeline)"
+    authors:
+      - family-names: Wang
+        given-names: Chao
+    repository-code: "https://github.com/ChaoEcohydroRS/RiverMouths_IS2KdMassiveTest"
+    commit: e997c61
