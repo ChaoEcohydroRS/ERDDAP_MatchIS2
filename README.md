@@ -158,5 +158,7 @@ against the original outputs (`_verify/`, not committed).
 
 ## License
 
-No license has been chosen yet; until one is added, all rights are reserved by
-the authors.
+Code: [MIT](LICENSE). The data tables in `results/` derive from third-party
+sources and keep their providers' terms: the BGC-Argo subset is CC BY 4.0
+(Begouen Demeaux, 2024), and the ERDDAP-derived tables follow each data
+provider's terms.

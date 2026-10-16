@@ -9,6 +9,7 @@ authors:
 repository-code: "https://github.com/ChaoEcohydroRS/ERDDAP_MatchIS2"
 date-released: 2026-10-16
 version: 1.0.0
+license: MIT
 references:
   - type: dataset
     title: "BGC-Argo matchups with Ocean Color Satellite Sensors and MERRA-2 updated for 2023"
